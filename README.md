@@ -12,6 +12,6 @@ I'm from Guatemala, and i work  **Mobile Developer & Backend Developer**, I like
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/max-herrera/" target="blank"><img align="center" src="https://github.com/codemax120/codemax120/blob/main/linkedin.png" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/max-herrera/?locale=en_US" target="blank"><img align="center" src="https://github.com/codemax120/codemax120/blob/main/linkedin.png" alt="LinkedIn" /></a>
   <a href="https://medium.com/@codemax120" target="blank"><img align="center" src="https://github.com/codemax120/codemax120/blob/main/medium.png" alt="LinkedIn" /></a>
   <a href="https://www.tiktok.com/@codemotionmax" target="blank"><img align="center" src="https://github.com/codemax120/codemax120/blob/main/tiktok.png" alt="LinkedIn" /></a>
