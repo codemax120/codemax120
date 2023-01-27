@@ -1,6 +1,11 @@
-![Mobile Developer & Backend Developer](https://github.com/codemax120/codemax120/blob/main/presentation_card.png)
+![Mobile Developer](https://github.com/codemax120/codemax120/blob/main/presentation_card.png)
 
-I'm from Guatemala 🇬🇹 , and i work  **Mobile Developer & Backend Developer**, I like to learn a little bit of everything, I have studied at the university and I also like to train myself. Exploring new and best practices is a habit that I have learned to have with patience.
+I am a young guatemalan 🇬🇹 student of **Systems Engineering, Informatics and Computer Science**, I am in my last year of university. All my professional experience has been working and practicing on web development, database and mobile, professionally I specialize in the mobile branch. I am currently working at **Allied Global Technology Services Guatemala as Sr. Software developer and Team Lead Mobile Developer**. 
+
+I aspire to learn a lot about new technologies and day to day trends in technology. 
+
+What I'm looking for: New challenges that improve my professional and personal experience, plus I like to share my knowledge with my colleagues and improve the quality of teamwork.
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codemax120&theme=aura_dark&show_icons=true)
 
