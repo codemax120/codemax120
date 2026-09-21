@@ -1,18 +1,31 @@
-![Mobile Developer](https://github.com/codemax120/codemax120/blob/main/presentation_card.png)
+# Max Herrera
+### Mobile Engineer & Tech Lead — Flutter · Android · iOS
 
-I am a young guatemalan 🇬🇹 student of **Systems Engineering, Informatics and Computer Science**, I am in my last year of university. All my professional experience has been working and practicing on web development, database and mobile, professionally I specialize in the mobile branch. I am currently working at **Allied Global Technology Services Guatemala as Sr. Software developer and Team Lead Mobile Developer**. 
+I build multi-platform mobile apps end to end — native **Android** and **iOS**, and cross-platform with **Flutter** — using AI-assisted, cloud-integrated workflows. I've led mobile teams, and I ship the backend behind the apps too.
 
-I aspire to learn a lot about new technologies and day to day trends in technology. 
+## What I build
 
-What I'm looking for: New challenges that improve my professional and personal experience, plus I like to share my knowledge with my colleagues and improve the quality of teamwork.
+**Mobile**
+- **Flutter & Dart** — cross-platform apps from one codebase
+- **Android** — Kotlin & Jetpack Compose
+- **iOS** — Swift & SwiftUI
+- AI-assisted development, cloud-integrated
 
+**Backend**
+- **Laravel** (PHP) — APIs and services
+- **Go** — fast, concurrent backends
+- REST APIs & third-party integrations
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codemax120&theme=aura_dark&show_icons=true)
+## Currently
 
-## Skills and Experience
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codemax120&layout=compact&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
+- Building open-source mobile projects across Flutter, Android and iOS
+- Turning them into clean, documented, public repos worth showing
+- Writing about mobile engineering on Medium *(soon)*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/max-herrera/?locale=en_US" target="blank"><img align="center" src="https://github.com/codemax120/codemax120/blob/main/linkedin.png" alt="LinkedIn" /></a>
-<a href="https://www.tiktok.com/@codemotionmax" target="blank"><img align="center" src="https://github.com/codemax120/codemax120/blob/main/tiktok.png" alt="LinkedIn" /></a>
+## Stack
+
+`Flutter` · `Dart` · `Kotlin` · `Jetpack Compose` · `Swift` · `SwiftUI` · `Laravel` · `Go`
+
+## Reach me
+
+**[LinkedIn](https://www.linkedin.com/in/max-herrera/?locale=en_US)** · **web3.career**
